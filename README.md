@@ -36,8 +36,15 @@ Este projeto foi idealizado com o intuito de testar meus conhecimentos em Desenv
 ## 🎬 Aplicação
 
 <div align="center">
-    <img src="https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/42ddc7de-7252-4068-94b5-144d028247d5" width="600px" />
+Imagem home <br>
+  <img src="https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/42ddc7de-7252-4068-94b5-144d028247d5" width="600px" />
 </div>
+
+
+<div> Vídeo com todas as funcionalidades e detalhes <br>
+https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/9a998d3b-8634-47a7-b62f-6ccf519f2438  
+</div>
+
 
 
 
@@ -68,5 +75,4 @@ Você pode Você pode [acessar o código fonte do projeto](https://github.com/Ma
 
 ## 🌟 Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/133241955?v=4" width=115><br><sub>Mateus Teixeira</sub>](https://github.com/MateusGT11) 
-| :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/133241955?v=4" width=115><br><sub>Mateus Teixeira</sub>](https://github.com/MateusGT11)
