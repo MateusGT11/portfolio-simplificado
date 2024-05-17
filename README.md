@@ -36,14 +36,12 @@ Este projeto foi idealizado com o intuito de testar meus conhecimentos em Desenv
 ## 🎬 Aplicação
 
 <div align="center">
-Imagem home <br>
+<strong>- Imagens do projeto</strong>
+  <br>
   <img src="https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/42ddc7de-7252-4068-94b5-144d028247d5" width="600px" />
+  <img src="https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/1c4a9fde-5c5b-464f-853f-4bb58ac8e5dd" width="600px" />
 </div>
 
-
-<div> Vídeo com todas as funcionalidades e detalhes <br>
-https://github.com/MateusGT11/portfolio-simplificado/assets/133241955/9a998d3b-8634-47a7-b62f-6ccf519f2438  
-</div>
 
 
 
